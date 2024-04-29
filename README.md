@@ -7,3 +7,10 @@
 - 📫 How to reach me: https://www.linkedin.com/in/vasu-garg-14140551/
 <br>  
 <br>
+
+## GitHub Stats
+
+![GitHub Stats Card]
+
+<!-- ![gitstats] -->
+<!-- ![top langs] -->
