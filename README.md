@@ -12,5 +12,6 @@
 
 ![GitHub Stats Card]
 
-<!-- ![gitstats] -->
-<!-- ![top langs] -->
+
+[github stats card]: https://github-readme-stats.vercel.app/api?username=vasugarg
+[top langs]:https://github-readme-stats.vercel.app/api/top-langs/?username=vasugarg
