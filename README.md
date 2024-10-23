@@ -5,7 +5,8 @@
 ### About Me
 
 - 📚 I’m currently pursuing my Masters in Computer Science @UIC <br>
-- 🌱 I’m constantly learning new things. <br>
+- 🌱 I’m constantly learning new things <br>
+- 4+ years of experience in Development, Cloud Technologies, Devops Tools 
 - 👯 I’m looking to collaborate on Cloud, DevOps and Data Science World. <br>
 - 💬 Ask me about Food, Movies and Travel <br>
 - 📫 How to reach me: https://www.linkedin.com/in/vasu-garg-14140551/
